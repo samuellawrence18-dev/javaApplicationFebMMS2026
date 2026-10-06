@@ -1,7 +1,12 @@
 public class DataType{
 	public static void main(String[] args) {
 		byte age = 80;
+		Short quantity = 10000;
+		int population = 27388373;
+		long worldPopulation
 		
-		System.out.printf("President is Tinibu %d years old%n",age);
+		System.out.printf("President Tinibu is %d years old%n",age);
+		System.out.printf("I ordered %,d quantity of phones in 2026%n",quantity);
+		System.out.printf("The population of Nigeria is %,d%n",population);
 	}
 }
