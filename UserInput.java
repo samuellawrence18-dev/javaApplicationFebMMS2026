@@ -20,7 +20,7 @@ public class UserInput{
 	  
 	  System.out.print(name + " Are you learning Java?(true/false): ");
 	  boolean answer = scan.nextBoolean();
-	  System.out.println("------------------------Input from user-----------------------");
+	  System.out.println("------------------------Input from user-----------------------%n");
 	  
 	  System.out.printf("Welcome %s to NIIT%n",name);
 	  System.out.printf("You are a %s and you are living in %s%n",gender,address);
