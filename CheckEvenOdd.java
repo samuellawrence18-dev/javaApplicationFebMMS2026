@@ -5,7 +5,7 @@ public class CheckEvenOdd{
 				System.out.printf("%d is even%n",i);
 			}
 			else{
-				System.out.printf("%d is odd%n",i);
+				System.out.printf("%d is odd",i);
 			}
 	    }
     }
